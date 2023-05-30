@@ -1,6 +1,6 @@
 {
-	"author": "Alfonzo Lugo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Alfonzo Lugo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
